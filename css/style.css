@@ -1520,15 +1520,15 @@ footer p {
 	padding: 30px 0px;
 }
 .bg-01{
-	background: url(../images/pricing-bg-01.jpg) no-repeat center;
+	background: url(../images/download.jpeg) no-repeat center;
 	background-size: cover;
 }
 .bg-02{
-	background: url(../images/pricing-bg-02.jpg) no-repeat center;
+	background: url(../images/down.jpeg) no-repeat center;
 	background-size: cover;
 }
 .bg-03{
-	background: url(../images/pricing-bg-03.jpg) no-repeat center;
+	background: url(../images/image.jpg) no-repeat center;
 	background-size: cover;
 }
 .pricing-box .card:hover .card-header{
@@ -1540,16 +1540,6 @@ footer p {
 	-webkit-box-shadow: 0 5px 30px rgba(105,106,119,.1);
 	box-shadow: 0 5px 30px rgba(105,106,119,.1);
 	border: none;
-}
-
-.pricing-box .card .card-header{
-	padding: 80px 15px;
-	text-align: center;
-	background: #323232;
-	color: #ffffff;
-}
-.pricing-box .card:hover .card-header{
-	color: #323232;
 }
 .pricing-box .card:hover .list-group-item{
 	background-color: rgba(225,225,225,0.5);
