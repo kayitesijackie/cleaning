@@ -1520,15 +1520,15 @@ footer p {
 	padding: 30px 0px;
 }
 .bg-01{
-	background: url(../images/download.jpeg) no-repeat center;
+	background: url(../images/img1.jpg) no-repeat center;
 	background-size: cover;
 }
 .bg-02{
-	background: url(../images/down.jpeg) no-repeat center;
+	background: url(../images/img2.jpg) no-repeat center;
 	background-size: cover;
 }
 .bg-03{
-	background: url(../images/image.jpg) no-repeat center;
+	background: url(../images/img3.jpg) no-repeat center;
 	background-size: cover;
 }
 .pricing-box .card:hover .card-header{
